@@ -1,2 +1,2 @@
 # portfolio-snippets
-A small collection of my codes
+This repository contains a small collection of my codes.
